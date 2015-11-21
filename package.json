@@ -1,0 +1,25 @@
+{
+  "name": "ember-sails-rethink-education",
+  "version": "1.0.0",
+  "description": "educational internal project",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd ./server && npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackrabbit99/ember-sails-rethink-education.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackrabbit99/ember-sails-rethink-education/issues"
+  },
+  "homepage": "https://github.com/blackrabbit99/ember-sails-rethink-education#readme",
+  "dependencies": {
+    "ember": "^0.9.8",
+    "rethinkdb": "^2.2.0",
+    "sails": "^0.11.2"
+  }
+}
